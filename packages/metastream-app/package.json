@@ -113,7 +113,7 @@
     "shortid": "^2.2.8",
     "simple-peer": "^9.4.0",
     "simple-websocket": "^7.0.2",
-    "source-map-support": "^0.4.14"
+    "source-map-support": "^0.5.19"
   },
   "husky": {
     "hooks": {
