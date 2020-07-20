@@ -89,7 +89,7 @@
     "firebase": "^7.13.1",
     "history": "^4.7.2",
     "html-parse-stringify2": "^2.0.1",
-    "i18next": "^12.0.0",
+    "i18next": "^19.6.0",
     "is-ip": "^2.0.0",
     "iso8601-duration": "^1.1.1",
     "length-prefixed-stream": "^1.6.0",
